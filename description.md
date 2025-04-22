@@ -36,12 +36,17 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
        - Dongguan
        - Guangzhou
 
-### Task Lists
+<!-- ### Task Lists
 - [x] #739
 - [ ] Doing exercises every day
 - [ ] Eating hamburgers
-- [ ] \(Optional) Open hidden tasks
+- [ ] \(Optional) Open hidden tasks -->
 
-@octocat 👍: This PR looks great - it's ready to merge! 🥇
-@
+@octocat 👍: This PR looks great - it's ready to merge! 🥇/
+
+> [!TIP]
+> Let's rename \*our project\* to \*new project\*.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
